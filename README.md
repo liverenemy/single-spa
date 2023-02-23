@@ -27,3 +27,8 @@ $ npm install
   
   **http://localhost:9000/react** -> React App
   **http://localhost:9000/angular/** -> Angular App
+
+
+  If you don't choose any app, both of the apps will be rendered.
+
+  Each app contains a button which increases the corresponding click counter. The count of clicks is displayed in each app and updated in both apps on each button click.
